@@ -1,8 +1,8 @@
 Origin: DonRacNhaY
-Label: concac
+Label: https://t.me/DonRacNhaY
 Suite: stable
 Version: 1.0
 Codename: ios
-Architectures: iphoneos-arm64e
+Architectures: iphoneos-arm
 Components: main
 Description: Hack & Cheat Game Mobile IOS
