@@ -1,0 +1,160 @@
+{
+	"class": "DepictionTabView",
+	"minVersion": "0.3",
+	"headerImage": "https://0siris.io/repo/assets/5184/banner.jpg",
+	"tabs": [{
+			"class": "DepictionStackView",
+			"tabname": "Details",
+			"views": [{
+					"class": "DepictionMarkdownView",
+					"markdown": "The most native, powerful and safe cheat for PUBG MOBILE for iOS that was designed for iPhones and iPads.",
+					"useSpacing": true
+				},
+
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "#### ESP\n\nOsiris provides the most eye-comfort visual ESP with full options and customization.",
+					"useSpacing": true
+				},
+				{
+					"class": "DepictionScreenshotsView",
+					"itemCornerRadius": 6.0,
+					"itemSize": "{609, 282}",
+					"screenshots": [{
+							"accessibilityText": "Screenshot",
+							"url": "https://0siris.io/repo/assets/5184/screenshot1.png"
+						},
+						{
+							"accessibilityText": "Screenshot",
+							"url": "https://0siris.io/repo/assets/5184/screenshot4.png"
+						},
+						{
+							"accessibilityText": "Screenshot",
+							"url": "https://0siris.io/repo/assets/5184/screenshot3.png"
+						}
+					]
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "#### Aimbot\n\nThe most powerful and legit aimbot with smoothness, prediction and automatic recoil compensation system. The safest silent aimbot with other different aimbot features.",
+					"useSpacing": true
+				},
+				{
+					"class": "DepictionVideoView",
+					"URL": "https://0siris.io/repo/assets/5184/videoplayback.mp4",
+					"width": 609,
+					"height": 282,
+					"autoplay": false,
+					"showPlaybackControls": true,
+					"cornerRadius": 0,
+					"alignment": 1
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "#### Optional features\n\nStrong and useful optional features like enabling the maximum frame rate and graphics settings on every iOS device. With providing a new visual features ever like Mod skin with suits and weapons for Elimination Broadcast, Hit Effects and Loot Crates.\n\n#### Safety\n\nThe most safest cheat every exists that bypasses all detections on every jailbreak device.",
+					"useSpacing": true
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"class": "DepictionHeaderView",
+					"title": "Information"
+				},
+				{
+					"class": "DepictionTableTextView",
+					"text": "May 14, 2024",
+					"title": "Updated"
+				},
+				{
+					"class": "DepictionTableTextView",
+					"text": "1.0.5",
+					"title": "Latest Version"
+				}
+			]
+		},
+		{
+			"class": "DepictionStackView",
+			"tabname": "Changelog",
+			"views": [
+                {
+					"class": "DepictionSubheaderView",
+					"title": "1.0.9",
+					"useBoldText": true,
+					"useBottomMargin": false
+				},
+                {
+					"class": "DepictionMarkdownView",
+					"markdown": "- Added support to Global, VNG, KR and TW versions of 3.5.0",
+					"useSpacing": true
+				},
+                {
+					"class": "DepictionSubheaderView",
+					"title": "1.0.8",
+					"useBoldText": true,
+					"useBottomMargin": false
+				},
+                {
+					"class": "DepictionMarkdownView",
+					"markdown": "- Added support to Global, VNG, KR and TW versions of 3.4.0",
+					"useSpacing": true
+				},
+                {
+					"class": "DepictionSubheaderView",
+					"title": "1.0.7",
+					"useBoldText": true,
+					"useBottomMargin": false
+				},
+                {
+					"class": "DepictionMarkdownView",
+					"markdown": "- Added support to Global, VNG, KR and TW versions of 3.3.0\n- Stability improvements",
+					"useSpacing": true
+				},
+                {
+					"class": "DepictionSubheaderView",
+					"title": "1.0.5",
+					"useBoldText": true,
+					"useBottomMargin": false
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "- Added support to Global, VNG, and TW versions of 3.2.0\n- Unlocked 120 fps for all devices\n- Removed mod skins due to security issues.",
+					"useSpacing": true
+				},
+                {
+					"class": "DepictionSubheaderView",
+					"title": "1.0.3",
+					"useBoldText": true,
+					"useBottomMargin": false
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "- Added support to Global, VNG, KR and TW versions of 3.1.0\n- Added new themed gameplay pickup items and vehicles.\n- Added new skins to the mod skin.\n- Added customization to alpha of colors (transparency)\n- Fixed death crate doesn't appear for certain weapons and only displays elimination effect.\n- Fixed random crash issues of mod skins.\n- Fixed injection failure to TW version of the game.\n- Fixed warnings cannot be disabled bug\n- Improvements to mod skin, weapons now change in realtime.\n- Improvements to Aimbot Visibility check, now works if weapon can see the enemy.\n- Improvements to Silent Aimbot direction accuracy.",
+					"useSpacing": true
+				},
+				{
+					"class": "DepictionSubheaderView",
+					"title": "1.0.1",
+					"useBoldText": true,
+					"useBottomMargin": false
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "- Added support to VNG, KR and TW.\n- Improvements to cheat stability.\n- Minor bug fixes.",
+					"useSpacing": true
+				},
+				{
+					"class": "DepictionSubheaderView",
+					"title": "1.0.0",
+					"useBoldText": true,
+					"useBottomMargin": false
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "- Initial release with free-bugs version.\n- Bypasses general security detections.",
+					"useSpacing": true
+				}
+			]
+		}
+	]
+}
