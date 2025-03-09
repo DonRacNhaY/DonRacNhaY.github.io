@@ -6,6 +6,6 @@ Maintainer: ryder aka Trương Quốc Toàn
 Icon: https://i.imgur.com/lKI9Er5.jpeg
 Architecture: iphoneos-arm64e
 Version: 3.7.0-1
-Filename: ./Deb/com.donracnhay.pubg_3.7.0-1_iphoneos-arm64e.deb
+Filename: ./debs/com.donracnhay.pubg_3.7.0-1_iphoneos-arm64e.deb
 Size: 1,589,154
 MD5sum: b385e19f3a1754511686546c3a3701d0
