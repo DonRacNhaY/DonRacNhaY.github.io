@@ -1,0 +1,75 @@
+{
+    "minVersion": "0.1",
+    "headerImage": "https://raw.githubusercontent.com/pwnapplehat/pwnapplehat.github.io/refs/heads/master/debs/Depictions/PwnAppleHatPUBG/banner.png",
+    "class": "DepictionTabView",
+    "tintColor": "#415D58",
+    "tabs": [
+        {
+            "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBottomMargin": false,
+                    "title": "PwnAppleHat Mod Menu",
+                    "useBoldText": true
+                },
+                {
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Advanced mod menu for PUBG Mobile, BGMI, PUBG KR, PUBG VN & PUBG TW"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot1",
+                            "url": "https://raw.githubusercontent.com/pwnapplehat/pwnapplehat.github.io/refs/heads/master/debs/Depictions/PwnAppleHatPUBG/screenshot1.PNG"
+                        },
+                        {
+                            "accessibilityText": "Screenshot2",
+                            "url": "https://raw.githubusercontent.com/pwnapplehat/pwnapplehat.github.io/refs/heads/master/debs/Depictions/PwnAppleHatPUBG/screenshot2.PNG"
+                        },
+                        {
+                            "accessibilityText": "Screenshot3",
+                            "url": "https://raw.githubusercontent.com/pwnapplehat/pwnapplehat.github.io/refs/heads/master/debs/Depictions/PwnAppleHatPUBG/screenshot3.PNG"
+                        },
+                        {
+                            "accessibilityText": "Screensho4",
+                            "url": "https://raw.githubusercontent.com/pwnapplehat/pwnapplehat.github.io/refs/heads/master/debs/Depictions/PwnAppleHatPUBG/screenshot4.PNG"
+                        }
+                    ],
+                    "itemSize": "{160, 275.41333333333336}",
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 6
+                },
+                {
+                    "markdown": "### Features:\n\n**Combat Enhancements:**\n- Aimbot (70m, 100m, 360°)\n- No Recoil\n- No Scope Shake\n- Fast Bullets\n- Pro Scope\n\n**Visual Improvements:**\n- No Camera Shake\n- No Fog\n- No Grass\n- Small Crosshair\n- iPad View\n- Various Body Colors (White, Yellow, Red, Ice)\n\n**Movement & Vehicle:**\n- Speed Modification\n- Fast Vehicle\n\n**Additional Info:**\n- Compatible with multiple PUBG versions (Global, BGMI, Korea, Vietnam, Taiwan)\n- Easy-to-use interface with toggle switches\n- Real-time feedback messages\n- Includes 6 hour AntiBlock bypass\n\n**Access the mod menu by tapping on the 'PwnAppleHat' label**",
+                    "class": "DepictionMarkdownView",
+                    "useBottomMargin": false,
+                    "title": "markdown-description",
+                    "useBoldText": true
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "text": "iOS_hAT (PwnAppleHat)",
+                    "class": "DepictionTableTextView",
+                    "title": "Developer"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                }
+            ],
+            "class": "DepictionStackView",
+            "tabname": "Details"
+        }
+    ]
+}

@@ -1,8 +1,8 @@
-Origin: DonRacNhaY
-Label: DonRacNhaY
+Origin: PwnAppleHat
+Label: PwnAppleHat's Repo
 Suite: stable
 Version: 1.0
 Codename: ios
-Architectures: iphoneos-arm
+Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
 Components: main
-Description: Hack & Cheat Game Mobile IOS
+Description: A Official repo by iOS_hAT!
