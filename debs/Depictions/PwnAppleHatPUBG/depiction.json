@@ -1,75 +1,94 @@
 {
-    "minVersion": "0.1",
-    "headerImage": "https://raw.githubusercontent.com/pwnapplehat/pwnapplehat.github.io/refs/heads/master/debs/Depictions/PwnAppleHatPUBG/banner.png",
-    "class": "DepictionTabView",
-    "tintColor": "#415D58",
-    "tabs": [
-        {
-            "views": [
-                {
-                    "class": "DepictionSubheaderView",
-                    "useBottomMargin": false,
-                    "title": "PwnAppleHat Mod Menu",
-                    "useBoldText": true
-                },
-                {
-                    "useSpacing": true,
-                    "class": "DepictionMarkdownView",
-                    "markdown": "Advanced mod menu for PUBG Mobile, BGMI, PUBG KR, PUBG VN & PUBG TW"
-                },
-                {
-                    "spacing": 8,
-                    "class": "DepictionSpacerView"
-                },
-                {
-                    "screenshots": [
-                        {
-                            "accessibilityText": "Screenshot1",
-                            "url": "https://raw.githubusercontent.com/pwnapplehat/pwnapplehat.github.io/refs/heads/master/debs/Depictions/PwnAppleHatPUBG/screenshot1.PNG"
-                        },
-                        {
-                            "accessibilityText": "Screenshot2",
-                            "url": "https://raw.githubusercontent.com/pwnapplehat/pwnapplehat.github.io/refs/heads/master/debs/Depictions/PwnAppleHatPUBG/screenshot2.PNG"
-                        },
-                        {
-                            "accessibilityText": "Screenshot3",
-                            "url": "https://raw.githubusercontent.com/pwnapplehat/pwnapplehat.github.io/refs/heads/master/debs/Depictions/PwnAppleHatPUBG/screenshot3.PNG"
-                        },
-                        {
-                            "accessibilityText": "Screensho4",
-                            "url": "https://raw.githubusercontent.com/pwnapplehat/pwnapplehat.github.io/refs/heads/master/debs/Depictions/PwnAppleHatPUBG/screenshot4.PNG"
-                        }
-                    ],
-                    "itemSize": "{160, 275.41333333333336}",
-                    "class": "DepictionScreenshotsView",
-                    "itemCornerRadius": 6
-                },
-                {
-                    "markdown": "### Features:\n\n**Combat Enhancements:**\n- Aimbot (70m, 100m, 360°)\n- No Recoil\n- No Scope Shake\n- Fast Bullets\n- Pro Scope\n\n**Visual Improvements:**\n- No Camera Shake\n- No Fog\n- No Grass\n- Small Crosshair\n- iPad View\n- Various Body Colors (White, Yellow, Red, Ice)\n\n**Movement & Vehicle:**\n- Speed Modification\n- Fast Vehicle\n\n**Additional Info:**\n- Compatible with multiple PUBG versions (Global, BGMI, Korea, Vietnam, Taiwan)\n- Easy-to-use interface with toggle switches\n- Real-time feedback messages\n- Includes 6 hour AntiBlock bypass\n\n**Access the mod menu by tapping on the 'PwnAppleHat' label**",
-                    "class": "DepictionMarkdownView",
-                    "useBottomMargin": false,
-                    "title": "markdown-description",
-                    "useBoldText": true
-                },
-                {
-                    "class": "DepictionSeparatorView"
-                },
-                {
-                    "spacing": 8,
-                    "class": "DepictionSpacerView"
-                },
-                {
-                    "text": "iOS_hAT (PwnAppleHat)",
-                    "class": "DepictionTableTextView",
-                    "title": "Developer"
-                },
-                {
-                    "spacing": 8,
-                    "class": "DepictionSpacerView"
-                }
-            ],
-            "class": "DepictionStackView",
-            "tabname": "Details"
-        }
-    ]
+	"class": "DepictionTabView",
+	"minVersion": "0.1",
+	"headerImage": "https://0siris.io/repo/assets/5184/banner.jpg",
+	"tabs": [{
+			"class": "DepictionStackView",
+			"tabname": "Details",
+			"views": [{
+					"class": "DepictionMarkdownView",
+					"markdown": "The most native, powerful and safe cheat for PUBG MOBILE for iOS that was designed for iPhones and iPads.",
+					"useSpacing": true
+				},
+
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "#### ESP\n\nOsiris provides the most eye-comfort visual ESP with full options and customization.",
+					"useSpacing": true
+				},
+				{
+					"class": "DepictionScreenshotsView",
+					"itemCornerRadius": 6.0,
+					"itemSize": "{609, 282}",
+					"screenshots": [{
+							"accessibilityText": "Screenshot",
+							"url": "https://0siris.io/repo/assets/5184/screenshot1.png"
+						},
+						{
+							"accessibilityText": "Screenshot",
+							"url": "https://0siris.io/repo/assets/5184/screenshot4.png"
+						},
+						{
+							"accessibilityText": "Screenshot",
+							"url": "https://0siris.io/repo/assets/5184/screenshot3.png"
+						}
+					]
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "#### Aimbot\n\nThe most powerful and legit aimbot with smoothness, prediction and automatic recoil compensation system. The safest silent aimbot with other different aimbot features.",
+					"useSpacing": true
+				},
+				{
+					"class": "DepictionVideoView",
+					"URL": "https://0siris.io/repo/assets/5184/videoplayback.mp4",
+					"width": 609,
+					"height": 282,
+					"autoplay": false,
+					"showPlaybackControls": true,
+					"cornerRadius": 0,
+					"alignment": 1
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "#### Optional features\n\nStrong and useful optional features like enabling the maximum frame rate and graphics settings on every iOS device. With providing a new visual features ever like Mod skin with suits and weapons for Elimination Broadcast, Hit Effects and Loot Crates.\n\n#### Safety\n\nThe most safest cheat every exists that bypasses all detections on every jailbreak device.",
+					"useSpacing": true
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"class": "DepictionHeaderView",
+					"title": "Information"
+				},
+				{
+					"class": "DepictionTableTextView",
+					"text": "May 14, 2024",
+					"title": "Updated"
+				},
+				{
+					"class": "DepictionTableTextView",
+					"text": "1.0.5",
+					"title": "Latest Version"
+				}
+			]
+		},
+		{
+			"class": "DepictionStackView",
+			"tabname": "Changelog",
+			"views": [
+				{
+					"class": "DepictionSubheaderView",
+					"title": "3.7.0 V1",
+					"useBoldText": true,
+					"useBottomMargin": false
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "• Phát Hành Phiên Bản Cập Nhật 3.7.0",
+					"useSpacing": true
+				}
+			]
+		}
+	]
 }
