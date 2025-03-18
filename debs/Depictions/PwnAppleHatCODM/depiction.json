@@ -1,75 +1,96 @@
 {
-    "minVersion": "0.1",
-    "headerImage": "https://raw.githubusercontent.com/pwnapplehat/pwnapplehat.github.io/refs/heads/master/debs/Depictions/PwnAppleHatCODM/banner.png",
     "class": "DepictionTabView",
-    "tintColor": "#415D58",
+    "minVersion": "0.1",
+    "headerImage": "https://0siris.io/repo/assets/5184/banner.jpg",
     "tabs": [
         {
+            "class": "DepictionStackView",
+            "tabname": "Details",
             "views": [
                 {
-                    "class": "DepictionSubheaderView",
-                    "useBottomMargin": false,
-                    "title": "PwnAppleHat Mod Menu",
-                    "useBoldText": true
-                },
-                {
-                    "useSpacing": true,
                     "class": "DepictionMarkdownView",
-                    "markdown": "Advanced mod menu for Call of Duty: Mobile VN (1.8.49) & KR (1.7.49)"
+                    "markdown": "The most native, powerful and safe cheat for PUBG MOBILE for iOS that was designed for iPhones and iPads.",
+                    "useSpacing": true
                 },
                 {
-                    "spacing": 8,
-                    "class": "DepictionSpacerView"
+                    "class": "DepictionMarkdownView",
+                    "markdown": "#### ESP\n\nOsiris provides the most eye-comfort visual ESP with full options and customization.",
+                    "useSpacing": true
                 },
                 {
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 6.0,
+                    "itemSize": "{609, 282}",
                     "screenshots": [
                         {
-                            "accessibilityText": "Screenshot1",
-                            "url": "https://raw.githubusercontent.com/pwnapplehat/pwnapplehat.github.io/refs/heads/master/debs/Depictions/PwnAppleHatCODM/screenshot1.PNG"
+                            "accessibilityText": "Screenshot",
+                            "url": "https://0siris.io/repo/assets/5184/screenshot1.png"
                         },
                         {
-                            "accessibilityText": "Screenshot2",
-                            "url": "https://raw.githubusercontent.com/pwnapplehat/pwnapplehat.github.io/refs/heads/master/debs/Depictions/PwnAppleHatCODM/screenshot2.PNG"
+                            "accessibilityText": "Screenshot",
+                            "url": "https://0siris.io/repo/assets/5184/screenshot4.png"
                         },
                         {
-                            "accessibilityText": "Screenshot3",
-                            "url": "https://raw.githubusercontent.com/pwnapplehat/pwnapplehat.github.io/refs/heads/master/debs/Depictions/PwnAppleHatCODM/screenshot3.PNG"
-                        },
-                        {
-                            "accessibilityText": "Screensho4",
-                            "url": "https://raw.githubusercontent.com/pwnapplehat/pwnapplehat.github.io/refs/heads/master/debs/Depictions/PwnAppleHatCODM/screenshot4.PNG"
+                            "accessibilityText": "Screenshot",
+                            "url": "https://0siris.io/repo/assets/5184/screenshot3.png"
                         }
-                    ],
-                    "itemSize": "{160, 275.41333333333336}",
-                    "class": "DepictionScreenshotsView",
-                    "itemCornerRadius": 6
+                    ]
                 },
                 {
-                    "markdown": "### Features:\n\n**Combat Enhancements:**\n- Wallhack 🔍\n- Auto AimAssist 🤖\n- AimAssist 👁️‍🗨️\n- High AimAssist 👁️‍🗨️\n- HitBox 🎯\n- No Spread Bullets 🔀\n- No Recoil (70%) 🔫\n- No Recoil (100%) 🔫\n- No Muzzle Flash 💨\n- No Reload 🔄\n- Fast Scope 🔭\n\n**Movement & Speed:**\n- Fast Speed ⚡\n- Speed 🏎️\n- Long Slide 🛝\n- Fast Swim 🏊‍♀️\n- Fast Parachute 🪂\n- Free Climb 🧗‍♀️\n\n**Visual & Tactical:**\n- Red Body 🔴\n- Anti Flash 🚫\n- UAV (BR) 🛩️\n- ADV UAV ✈️\n- Counter UAV 🚁\n- Small Dot (•)\n\n**Weapon Features:**\n- Infinite Ammo ♾️\n- Unlimited Firing 🔫\n- Always Knife 🔪\n\n**Additional Info:**\n- Compatible with CODM VN (1.8.49) & KR (1.7.49) Only!",
                     "class": "DepictionMarkdownView",
-                    "useBottomMargin": false,
-                    "title": "markdown-description",
-                    "useBoldText": true
+                    "markdown": "#### Aimbot\n\nThe most powerful and legit aimbot with smoothness, prediction and automatic recoil compensation system. The safest silent aimbot with other different aimbot features.",
+                    "useSpacing": true
+                },
+                {
+                    "class": "DepictionVideoView",
+                    "URL": "https://0siris.io/repo/assets/5184/videoplayback.mp4",
+                    "width": 609,
+                    "height": 282,
+                    "autoplay": false,
+                    "showPlaybackControls": true,
+                    "cornerRadius": 0,
+                    "alignment": 1
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "#### Optional features\n\nStrong and useful optional features like enabling the maximum frame rate and graphics settings on every iOS device. With providing a new visual features ever like Mod skin with suits and weapons for Elimination Broadcast, Hit Effects and Loot Crates.\n\n#### Safety\n\nThe most safest cheat every exists that bypasses all detections on every jailbreak device.",
+                    "useSpacing": true
                 },
                 {
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "spacing": 8,
-                    "class": "DepictionSpacerView"
+                    "class": "DepictionHeaderView",
+                    "title": "Information"
                 },
                 {
-                    "text": "iOS_hAT (PwnAppleHat)",
                     "class": "DepictionTableTextView",
-                    "title": "Developer"
+                    "text": "May 14, 2024",
+                    "title": "Updated"
                 },
                 {
-                    "spacing": 8,
-                    "class": "DepictionSpacerView"
+                    "class": "DepictionTableTextView",
+                    "text": "1.0.5",
+                    "title": "Latest Version"
                 }
-            ],
+            ]
+        },
+        {
             "class": "DepictionStackView",
-            "tabname": "Details"
+            "tabname": "Changelog",
+            "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "3.7.0 V1",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "• Phát Hành Phiên Bản Cập Nhật 3.7.0",
+                    "useSpacing": true
+                }
+            ]
         }
     ]
 }

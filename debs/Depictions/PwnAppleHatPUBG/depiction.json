@@ -2,15 +2,16 @@
 	"class": "DepictionTabView",
 	"minVersion": "0.1",
 	"headerImage": "https://0siris.io/repo/assets/5184/banner.jpg",
-	"tabs": [{
+	"tabs": [
+		{
 			"class": "DepictionStackView",
 			"tabname": "Details",
-			"views": [{
+			"views": [
+				{
 					"class": "DepictionMarkdownView",
 					"markdown": "The most native, powerful and safe cheat for PUBG MOBILE for iOS that was designed for iPhones and iPads.",
 					"useSpacing": true
 				},
-
 				{
 					"class": "DepictionMarkdownView",
 					"markdown": "#### ESP\n\nOsiris provides the most eye-comfort visual ESP with full options and customization.",
@@ -20,7 +21,8 @@
 					"class": "DepictionScreenshotsView",
 					"itemCornerRadius": 6.0,
 					"itemSize": "{609, 282}",
-					"screenshots": [{
+					"screenshots": [
+						{
 							"accessibilityText": "Screenshot",
 							"url": "https://0siris.io/repo/assets/5184/screenshot1.png"
 						},
